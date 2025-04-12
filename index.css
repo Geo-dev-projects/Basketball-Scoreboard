@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    color: white;
+    text-align: center;
+    
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    margin:50px;
+    padding-bottom: 40px;
+    border-radius: 20px;
+    background-color: #1B244A;
+}
+
+.window {
+    
+    width: 155px;
+    height: 120px;
+    text-align: center;
+    margin: 15px;
+    background-color: #080001;
+    border-radius: 5px;
+    align-items: center;
+}
+
+#btn {
+    
+    width: 45px;
+    height: 45px;
+    margin: 4px;
+    border-radius: 5px;
+    border: 1px solid #9AABD8;
+    background-color: #1B244A;
+    color: #9AABD8;
+   
+}
+
+h3 {
+    
+    font-size: 40px;
+}
+
+span {
+    
+    font-size: 90px;
+    color: #F94F6D;
+    font-family: Cursed Timer ULiL;
+}
