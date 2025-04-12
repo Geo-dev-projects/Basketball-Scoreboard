@@ -8,7 +8,7 @@ body {
 .container {
     display: flex;
     justify-content: space-around;
-    margin:50px;
+    margin:400px;
     padding-bottom: 40px;
     border-radius: 20px;
     background-color: #1B244A;
